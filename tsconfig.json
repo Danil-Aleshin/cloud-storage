@@ -4,5 +4,5 @@
 		"paths": { "cloud-storage/*": ["cloud-storage/*"], "platform/*": ["platform/*"] },
 		"noUncheckedIndexedAccess": true
 	},
-	"include": ["../platform", "src"]
+	"include": ["../platform", "../cloud-storage", "src"]
 }
