@@ -1,3 +1,8 @@
-{ "extends": "../../tsconfig.json", "compilerOptions": { "paths": { "cloud-storage/*": ["cloud-storage/*"],
-"platform/*": ["platform/*"] }, "noUncheckedIndexedAccess": true }, "include": ["../platform",
-"src"] }
+{
+	"extends": "../../tsconfig.json",
+	"compilerOptions": {
+		"paths": { "cloud-storage/*": ["cloud-storage/*"], "platform/*": ["platform/*"] },
+		"noUncheckedIndexedAccess": true
+	},
+	"include": ["../platform", "src"]
+}
