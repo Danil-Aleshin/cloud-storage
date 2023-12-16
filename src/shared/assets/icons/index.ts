@@ -1,3 +1,3 @@
-import DatabaseSVG from './Database.svg'
+import DatabaseSVG from "./Database.svg";
 
-export {DatabaseSVG} 
+export { DatabaseSVG };
